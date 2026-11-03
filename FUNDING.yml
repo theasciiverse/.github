@@ -1,0 +1,5 @@
+# The Sponsor button on every theasciiverse repo. A repo with its own
+# .github/FUNDING.yml (a packaged game's upstream author) shows that instead.
+github: [theasciiverse]
+patreon: asciiverse
+custom: ["https://asciiverse.sh/support.html"]
